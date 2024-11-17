@@ -4454,7 +4454,7 @@ function randomPosition() {
 
 function increaseScore() {
     score++;
-    scoreDisplay.textContent = `分數: ${score}`;
+    scoreDisplay.textContent = `Score: ${score}`;
     randomPosition();
 }
 
