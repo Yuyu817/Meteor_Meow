@@ -74,7 +74,6 @@ body {
   background-color: #b5caee;
   background-image: url(../cp3.jpg);
   background-size: cover;
-  background-size: contain; /* 圖片縮放到完全可見 */
   
 }
 
